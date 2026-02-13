@@ -107,12 +107,6 @@ This app is deployed on **Vercel**. Any push to the `main` branch triggers autom
 - Output Directory: `dist`
 - Install Command: `cd ../.. && npm install`
 
-## Author
-
-**Abinaya R** ([@Abinayaravi07](https://github.com/Abinayaravi07))
-- Email: btechit240254@smvec.ac.in
-- Created: February 2026
-
 ## License
 
 MIT License - See [LICENSE](LICENSE) file for details.
